@@ -1,0 +1,6 @@
+{
+  "name": "(you)r communication",
+  "description": "A minimal, conversion-focused landing page for a marketing agency based in Wolfurt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
